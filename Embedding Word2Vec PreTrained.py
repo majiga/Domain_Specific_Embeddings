@@ -10,11 +10,11 @@ from gensim.models import KeyedVectors
 
 # Load pretrained model (since intermediate data is not included, the model cannot be refined with additional data)
 #model = Word2Vec.load_word2vec_format('GoogleNews-vectors-negative300.bin', binary=True, norm_only=True)
-modelg = KeyedVectors.load_word2vec_format(r'/Users/majiga/Documents/GoogleNews-vectors-negative300.bin', binary=True)
+modelg = KeyedVectors.load_word2vec_format(r'C:/WAMEX_project/Vectors/GoogleNews-vectors-negative300.bin', binary=True)
 
 dog = modelg['dog']
 print(dog.shape)
-print(dog[:10])
+#print(dog[:10])
 
 # Deal with an out of dictionary word: Михаил (Michail)
 if 'gold' in modelg:
@@ -23,20 +23,7 @@ else:
     print('{0} is an out of dictionary word'.format('gold'))
 
 # Some predefined functions that show content related information for given words
-print(modelg.most_similar(positive=['woman', 'king'], negative=['man']))
 print(modelg.most_similar(positive=['king', 'woman'], negative=['man']))
-print(modelg.most_similar(positive=['king', 'woman'], negative=['man']))
-
-print(modelg.most_similar(positive=['war', 'woman'], negative=['man']))
-print(modelg.most_similar(positive=['war', 'man'], negative=['woman']))
-
-print(modelg.most_similar(positive=['war', 'women'], negative=['men']))
-print(modelg.most_similar(positive=['war', 'men'], negative=['women']))
-
-
-print(modelg.most_similar(positive=['love', 'talk'], negative=['intimacy']))
-print(modelg.most_similar(positive=['love', 'intimacy'], negative=['talk']))
-
 
 #print(model.doesnt_match("breakfast cereal dinner lunch".split()))
 

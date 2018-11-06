@@ -8,11 +8,6 @@ import gensim
 from sklearn.manifold import TSNE
 
 
-"""
-import numpy as np
-from sklearn.cluster import AgglomerativeClustering
-"""
-
 model = gensim.models.Word2Vec.load(r"/Users/majiga/Documents/wamex_Word2Vec_CSG_min_freq_300.model")
 
 #model = gensim.models.Word2Vec.load('C:\\1WAMEX\\word2vec_cooccurrence_graph.model')
