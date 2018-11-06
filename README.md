@@ -3,9 +3,13 @@
 ### This project analyses the following 6 embeddings in order to investigate how well the semantic relations of the geological mineralisation terms are represented in those 6 word embeddings.
 
 1. Word2Vec Pre-trained
-   Source: GoogleNews, trained on 100 billion tokens, vocabulary size is 3 million
+   Source: Google news, trained on 100 billion tokens, vocabulary size is 3 million, 300 dimensional vectors
+   https://code.google.com/archive/p/word2vec/
+   Link to download GoogleNews-vectors-negative300.bin: https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing   
 2. FastText Pre-trained
    Source: Web crawl, trained on 600 billion tokens, vocabulary size is 2 million
+   https://fasttext.cc/docs/en/english-vectors.html
+   Link to download crawl-300d-2M.vec: https://s3-us-west-1.amazonaws.com/fasttext-vectors/crawl-300d-2M.vec.zip
 3. Word2Vec Raw
    Source: WAMEX dataset after pre-processing (cleaning, tokenising and lemmatising),
    trained on 42.6 million tokens,
@@ -43,10 +47,11 @@ All word embedding models are created/loaded and then analysed with similarity a
 
 5. Embedding Word2Vec WAMEX entities data.py
    Reads the text file "wamex/data/WAMEX_geological_entities_allfiles.txt", creates Word2Vec vectors and facilitates queries
-   Note: Use file 7 and 8 for creating "WAMEX_geological_entities_allfiles.txt" file or use the already created file in data folder.
+   Note: Files 7 and 8 are used for creating "WAMEX_geological_entities_allfiles.txt" file.
    
 6. Embedding FastText WAMEX entities data.py
    Reads the text file "wamex/data/WAMEX_geological_entities_allfiles.txt", creates FastText vectors and facilitates queries
+   Note: Files 7 and 8 are used for creating "WAMEX_geological_entities_allfiles.txt" file.
 
 7. Annotate_Geological_Terms.py file creates annotated files in the folder "wamex/data/wamex_xml_annotated" using the domain vocabulary.
    
