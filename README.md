@@ -28,7 +28,7 @@ This folder contains the list of geological terms such as names for commodities,
 
 All word embedding models are created/loaded and then analysed with similarity and analogy queries using gensim framework.
 
-### The files:
+### Script files:
 1. Embedding Word2Vec PreTrained.py
    Loads google news vectors and facilitates queries
    
@@ -53,5 +53,6 @@ All word embedding models are created/loaded and then analysed with similarity a
 8. AnnotatedEntitiesOnly_WAMEX_AllFiles.py file creates WAMEX_geological_entities_allfiles.txt file
    by getting only terms/entities from annotated files in the folder "wamex/data/wamex_xml_annotated/"
    
-
+9. Visualisation t_SNE.py
+   Visualises the word vectors as clusters using t-SNE
 
