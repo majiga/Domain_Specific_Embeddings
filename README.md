@@ -70,7 +70,7 @@ All word embeddings are created/loaded and then analysed with similarity and ana
 6. Embedding FastText WAMEX entities data.py
 
    Reads the text file "wamex/data/WAMEX_geological_entities_allfiles.txt", creates FastText vectors and facilitates queries
-   Note: Files 7 and 8 are used for creating "WAMEX_geological_entities_allfiles.txt" file.
+   Note: Files 7 and 8 are used for creating "WAMEX_geological_entities_allfiles.txt" file. WAMEX_geological_entities_allfiles.txt file here is smaller file for testing.
 
 7. Annotate_Geological_Terms.py
 
