@@ -41,30 +41,40 @@ All word embedding models are created/loaded and then analysed with similarity a
 
 ### Script files:
 1. Embedding Word2Vec PreTrained.py
+
    Loads google news vectors and facilitates queries
    
 2. Embedding FastText PreTrained.py
+
    Loads web crawl vectors and facilitates queries
 
 3. Embedding Word2Vec WAMEX all.py
+
    Reads the data files in the folder "wamex/data/wamex_xml", pre-processes the data, creates Word2Vec vectors and facilitates queries
 
 4. Embedding FastText WAMEX all.py
+
    Reads the data files in the folder "wamex/data/wamex_xml", pre-processes the data, creates FastText vectors and facilitates queries
 
 5. Embedding Word2Vec WAMEX entities data.py
+
    Reads the text file "wamex/data/WAMEX_geological_entities_allfiles.txt", creates Word2Vec vectors and facilitates queries
    Note: Files 7 and 8 are used for creating "WAMEX_geological_entities_allfiles.txt" file.
    
 6. Embedding FastText WAMEX entities data.py
+
    Reads the text file "wamex/data/WAMEX_geological_entities_allfiles.txt", creates FastText vectors and facilitates queries
    Note: Files 7 and 8 are used for creating "WAMEX_geological_entities_allfiles.txt" file.
 
-7. Annotate_Geological_Terms.py file creates annotated files in the folder "wamex/data/wamex_xml_annotated" using the domain vocabulary.
+7. Annotate_Geological_Terms.py
+
+   It creates annotated files in the folder "wamex/data/wamex_xml_annotated" using the domain vocabulary.
    
-8. AnnotatedEntitiesOnly_WAMEX_AllFiles.py file creates WAMEX_geological_entities_allfiles.txt file
-   by getting only terms/entities from annotated files in the folder "wamex/data/wamex_xml_annotated/"
+8. AnnotatedEntitiesOnly_WAMEX_AllFiles.py
+
+   It creates "WAMEX_geological_entities_allfiles.txt" file by getting only terms/entities from annotated files in the folder "wamex/data/wamex_xml_annotated/"
    
 9. Visualisation t_SNE.py
+
    Visualises the word vectors as clusters using t-SNE
 
