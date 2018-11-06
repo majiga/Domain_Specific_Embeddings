@@ -1,0 +1,188 @@
+Adakite
+Adamellite
+Alkali feldspar granite
+altered granite
+Amphibolite
+Andesite
+Anorthosite
+Anthracite
+Aphanite
+Aplite
+Appinite
+Argillite
+Arkose
+Banded iron formation
+Basalt
+Basaltic
+basaltic lava
+basaltic volcanic glass
+Basanite
+Benmoreite
+Blairmorite
+Blue Granite
+Blueschist
+Boninite
+Borolanite
+Breccia
+Calcarenite
+Calcflinta
+Carbonatite
+Cataclasite
+Chalk
+Charnockite
+Chert
+Claystone
+Coal
+Comendite
+Conglomerate
+Coquina
+Dacite
+Diabase
+Diamictite
+Diatomite
+Diorite
+dolerite
+Dolomite
+dolostone
+Dunite
+Eclogite
+Enderbite
+Epidosite
+Essexite
+Evaporite
+felsic volcanic rock
+Felsite
+Flint
+Foidolite
+Gabbro
+Ganister
+Geyserite
+Gneiss
+Gossan
+Granite
+Granodiorite
+Granophyre
+Granulite
+Greenschist
+Greywacke
+Gritstone
+Harzburgite
+Hawaiite
+Hornblendite
+Hornfels
+Hyaloclastite
+Icelandite
+Igneous rock
+Ignimbrite
+Ijolite
+intrusive igneous rock
+intrusive mafic rock
+Itacolumite
+Jadeitite
+Jasperoid
+Jaspillite
+kalsititic rock
+Kenyte
+Kimberlite
+Komatiite
+Lamproite
+Lamprophyre
+Lapis lazuli
+Larvikite
+Laterite
+Latite
+Lherzolite
+Lignite
+Limestone
+Litchfieldite
+Llanite
+Luxullianite
+mafic intrusive igneous rock
+Mangerite
+Marble
+Marl
+melitilic rock
+Metamorphic rock
+Metapelite
+Metapsammite
+metasomatic rock
+Migmatite
+Minette
+Monzogranite
+Monzonite
+Mudstone
+Mugearite
+Mylonite
+Napoleonite
+nepheline gabbro
+Nepheline syenite
+Nephelinite
+Norite
+Novaculite
+Obsidian
+Oil shale
+Oolite
+Pahoehoe
+Pantellerite
+Pegmatite
+Peridotite
+Phonolite
+Phyllite
+Picrite
+Pietersite
+Porphyry
+Pseudotachylite
+Pumice
+Pyrolite
+Pyroxenite
+Quartz diorite
+Quartz monzonite
+Quartzite
+Quartzolite
+Rapakivi granite
+Rhomb porphyry
+Rhyodacite
+Rhyolite
+Sandstone
+Schist
+Scoria
+Sedimentary rock
+Serpentinite
+Shale
+Shonkinite
+Shoshonite
+Siltstone
+Skarn
+Slate
+Soapstone
+Sovite
+Suevite
+Syenite
+Sylvinite
+Tachylite
+Tachylyte
+Taconite
+Talc carbonate
+Tephrite
+Teschenite
+Theralite
+Tillite
+Tonalite
+Trachyandesite
+Trachyte
+Travertine
+Troctolite
+Trondhjemite
+Tufa
+Tuff
+Turbidite
+Ultrafamic rock
+Unakite
+Variolite
+Vogesite
+volcanic rock
+Wackestone
+Wad
+Websterite
+Wehrlite
+Whiteschist
