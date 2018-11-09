@@ -1,0 +1,135 @@
+aluminum
+amethyst
+andalusite
+antimony
+asbestos
+barite
+base metal
+bauxite
+beryl
+bismuth
+black opal
+building stone
+calcite
+cadmium
+celestite
+chromite
+chromium
+chrysoprase
+clay
+coal
+cobalt
+conglomerate
+construction material
+copper
+corundum
+crystal
+diamond
+dimension stone
+dimensionstone
+dolerite
+dolomite
+emerald
+feldspar
+flint
+fluorite
+garnet
+gemstones
+geothermal
+gold
+granite
+granitoid
+graphite
+gypsum
+heavy mineral sand
+hematite
+ilmenite
+industrial mineral
+iridium
+iron ore
+iron oxide pigment
+iron
+jade
+jasper
+kaolin
+kaolinite
+kyanite
+lead
+lepidolite
+leucoxene
+lime sand
+limesand
+lime stone
+limestone
+lithium
+magnesite
+magnesium
+magnetite
+manganese
+marble
+mica
+mineralsand
+molybdenum
+monazite
+natural gas
+nephrite jade
+nickel
+niobium
+oil sand
+opal
+palladium
+palygorskite
+pegmatite
+petrolium
+phosphate rock
+phosphate
+platinum
+potash
+prehnite
+pyrite
+quartz
+quartzite
+rare earth
+rhodium
+rhodonite
+ruthenium
+rutile
+salt
+sand
+sandstone
+sand stone
+serpentine
+serpintine
+shale gas
+silica sand
+silicasand
+silica
+silicon
+sillimanite
+silver
+slate
+spodumene
+spongolite
+sulfur
+talc
+tantalum pentoxide
+tantalum
+tiger eye
+tigereye
+tightgas
+tight gas
+tin
+titanium
+topaz
+tourmaline
+tungsten
+turquoise
+uranium
+vanadium
+variscite
+vermiculite
+wollastonite
+xenotime
+zebra rock
+zinc
+zircon
