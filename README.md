@@ -2,16 +2,14 @@
 
 Publication "Towards Geological Knowledge Discovery Using Vector-Based Semantic Similarity"
 
-@inproceedings{enkhsaikhan2018towards,
-
-    title={Towards Geological Knowledge Discovery Using Vector-Based Semantic Similarity},
-    author={Enkhsaikhan, Majigsuren and Liu, Wei and Holden, Eun-Jung and Duuring, Paul},
-    booktitle={International Conference on Advanced Data Mining and Applications},
-    pages={224--237},
-    year={2018},
-    organization={Springer}
-   
-}
+    @inproceedings{enkhsaikhan2018towards,
+        title={Towards Geological Knowledge Discovery Using Vector-Based Semantic Similarity},
+        author={Enkhsaikhan, Majigsuren and Liu, Wei and Holden, Eun-Jung and Duuring, Paul},
+        booktitle={International Conference on Advanced Data Mining and Applications},
+        pages={224--237},
+        year={2018},
+        organization={Springer}   
+    }
 
 ### This project analyses the following 6 embeddings in order to investigate how well the semantic relations of the geological mineralisation terms are represented in those 6 word embeddings.
 
