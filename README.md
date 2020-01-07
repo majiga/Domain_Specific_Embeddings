@@ -3,12 +3,13 @@
 Publication "Towards Geological Knowledge Discovery Using Vector-Based Semantic Similarity"
 
 @inproceedings{enkhsaikhan2018towards,
-   title={Towards Geological Knowledge Discovery Using Vector-Based Semantic Similarity},
-   author={Enkhsaikhan, Majigsuren and Liu, Wei and Holden, Eun-Jung and Duuring, Paul},
-   booktitle={International Conference on Advanced Data Mining and Applications},
-   pages={224--237},
-   year={2018},
-   organization={Springer}
+
+    title={Towards Geological Knowledge Discovery Using Vector-Based Semantic Similarity},
+    author={Enkhsaikhan, Majigsuren and Liu, Wei and Holden, Eun-Jung and Duuring, Paul},
+    booktitle={International Conference on Advanced Data Mining and Applications},
+    pages={224--237},
+    year={2018},
+    organization={Springer}
    
 }
 
